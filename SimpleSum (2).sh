@@ -1,6 +1,5 @@
 #
-#Students: Nsreen Tawafsha 1182319, Shahed Jamhour 1180654
-#Instructor: Dr.Aziz Qaroush
+
 #Text Summarization using Sentence Centrality program
 #
 
