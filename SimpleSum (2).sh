@@ -1,6 +1,6 @@
 #
 
-#Text Summarization using Sentence Centrality program
+#Text Summarization using Sentence Centrality 
 #
 
 #readFile function asks the user to enter the file name to read the sentences from, then checks that it exits and that is a file not a directory for example
